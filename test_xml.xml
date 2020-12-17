@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="test_xsl.xsl"?>
+
+<catalog>
+   <film>
+     <title>Один дома</title>
+     <country>США</country>
+     <rating>5</rating>
+     <year>1990</year>
+   </film>
+   <film>
+     <title>Назад в будущее 1-3</title>
+     <country>США</country>
+     <rating>5</rating>
+     <year>1985 - 1990</year>
+   </film>
+   <film>
+     <title>Елки</title>
+     <country>Россия</country>
+     <rating>5</rating>
+     <year>2010</year>
+   </film>
+</catalog>
